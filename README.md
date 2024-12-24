@@ -58,7 +58,7 @@ In conclusion, Llama 3 was chosen for its cost-effectiveness, flexibility, perfo
 
 ### Clone the repository:
 ``` bash
-git clone <repository-link>
+git clone https://github.com/anshsrivasta/Business-Intelligence-Insights-using-GenAI/tree/main
 cd <repository-folder>
 ```
 ### Install the dependancies:
