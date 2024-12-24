@@ -1,0 +1,11 @@
+langchain-community
+unstructured
+faiss-cpu
+transformers
+sentence-transformers
+langchain-groq
+HuggingFaceEmbeddings
+langchain
+sklearn
+numpy
+getpass
