@@ -61,9 +61,10 @@ In conclusion, Llama 3 was chosen for its cost-effectiveness, flexibility, perfo
 git clone https://github.com/anshsrivasta/Business-Intelligence-Insights-using-GenAI/tree/main
 cd <repository-folder>
 ```
-### Install the dependancies:
+
+### Install Dependencies: 
 ```bash
-pip install langchain unstructured sentence-transformers faiss-cpu langchain-groq transformers
+pip install -r requirements.txt
 ```
 
 
@@ -86,7 +87,7 @@ Update the query in the script:
 query = "Tell me about Tesla's Market Value."
 ```
 
-##Customization
+## Customization
 
 Modify the prompt variable to tailor the response style or focus on specific types of data (e.g., financial figures, trends, or sentiment).
 Add or remove URLs to process multiple news sources here:
